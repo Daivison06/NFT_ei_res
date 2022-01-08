@@ -41,7 +41,7 @@ O intuito é estabelecer um mercado de arte NFT e o blockchain de forma mais amp
 
 ## Consenso
 - Os NFTs em si não produzem emissões de carbono, mas algumas criptomoedas como Bitcoin e Ethereum usam recursos intensivos de energia para mineração. 
-- A Ethereum atualmente tem uma pegada de carbono associada à criação de blocos por meio da mineração, leia mais aqui.
+- A Ethereum atualmente tem uma pegada de carbono associada à criação de blocos por meio da mineração.
 - ETH é o que muitos mercados de NFT usam, que está atualmente em transição para um novo mecanismo de consenso chamado Proof-of-Stake (PoS).
 - O mecanismo de consendo PoS deve reduzir em 99.5% a pegada de carbono do ethereum, a transição para este novo mecanismo deve ocorrer ainda em 2022.
 - Existem muitas plataformas de arte NFT usando criptomoedas PoS.
